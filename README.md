@@ -18,6 +18,7 @@
 
 ### Proposed partners: Nobody
 <img width="286" alt="Снимок" src="https://user-images.githubusercontent.com/81321784/112362869-1dd54f80-8cff-11eb-8997-5422444dc48f.PNG">
+
 #### Definition: Simple calculator for 1) It is simple to understand, You will click to the numbers
 
 #### 2) Then you will click to the operation that you want to calculate
