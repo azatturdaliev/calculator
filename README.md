@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 ### for midterm done by Azat Turdaliev
 ### Title of the Project: Calculator created using JavaFX
 
